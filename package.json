@@ -1,12 +1,16 @@
 {
-  "name": "@surunnuage/freedcamp-tickets",
-  "version": "0.0.0",
-  "description": "Manage Freedcamp tickets directly from Strapi.",
+  "name": "@surunnuage/strapi-plugin-freedcamp-tickets",
+  "version": "1.0.0",
+  "description": "Manage your maintenance via Freedcamp tickets from Strapi.",
   "strapi": {
     "name": "strapi-plugin-freedcamp-tickets",
-    "description": "Manage Freedcamp tickets directly from Strapi.",
+    "description": "Manage your maintenance via Freedcamp tickets from Strapi.",
     "kind": "plugin",
     "displayName": "My Tickets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sur-un-nuage/strapi-plugin-freedcamp-tickets"
   },
   "dependencies": {},
   "peerDependencies": {
