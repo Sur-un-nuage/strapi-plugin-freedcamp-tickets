@@ -1,0 +1,32 @@
+{
+  "name": "@surunnuage/freedcamp-tickets",
+  "version": "0.0.0",
+  "description": "Manage Freedcamp tickets directly from Strapi.",
+  "strapi": {
+    "name": "strapi-plugin-freedcamp-tickets",
+    "description": "Manage Freedcamp tickets directly from Strapi.",
+    "kind": "plugin",
+    "displayName": "My Tickets"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@strapi/strapi": "^4.1.7"
+  },
+  "author": {
+    "name": "Thomas Poirier",
+    "email": "opendev@surunnuage.dev",
+    "url": "https://www.surunnuage.dev"
+  },
+  "maintainers": [
+    {
+      "name": "Sur un nuage .dev",
+      "email": "opendev@surunnuage.dev",
+      "url": "https://www.surunnuage.dev"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

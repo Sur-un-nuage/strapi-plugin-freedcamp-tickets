@@ -1,0 +1,52 @@
+#datepicker-61 {
+  padding-top: 4px;
+}
+
+button {
+  margin: 6px;
+  background: transparent;
+  padding: 4px 5px;
+  border-radius: 2px;
+}
+
+button.is-active {
+  background: rgb(197, 197, 197);
+  border-radius: 2px;
+}
+
+.contextual {
+  position: relative;
+}
+
+.contextual-dots {
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  margin-right: 8px;
+  margin-top: -2px;
+  margin-bottom: 6px;
+}
+
+.contextual-container {
+  position: absolute;
+  top: 12px;
+  left: -12px;
+  width: 80px;
+  height: 30px;
+  background-color: white;
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.25);
+}
+
+.contextual-container :hover {
+  width: 100%;
+  height: 100%;
+  background-color: #f0f2f7;
+}
+
+.contextual-text {
+  text-align: center;
+  padding-top: 9px;
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
+}
