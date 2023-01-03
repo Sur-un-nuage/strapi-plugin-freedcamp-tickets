@@ -1,6 +1,6 @@
 {
   "name": "@surunnuage/strapi-plugin-freedcamp-tickets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Manage your maintenance via Freedcamp tickets from Strapi.",
   "strapi": {
     "name": "strapi-plugin-freedcamp-tickets",
