@@ -20,7 +20,8 @@
     "@tiptap/extension-placeholder": "^2.0.0-beta.207",
     "@tiptap/react": "^2.0.0-beta.205",
     "@tiptap/starter-kit": "^2.0.0-beta.205",
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "react-icons": "^4.7.1"
   },
   "peerDependencies": {
     "@strapi/strapi": "^4.1.7"
