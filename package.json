@@ -12,7 +12,16 @@
     "type": "git",
     "url": "https://github.com/Sur-un-nuage/strapi-plugin-freedcamp-tickets"
   },
-  "dependencies": {},
+  "dependencies": {
+    "html-react-parser": "^3.0.4",
+    "use-onclickoutside": "^0.4.1",
+    "react-gravatar": "^2.6.3",
+    "@tiptap/extension-image": "^2.0.0-beta.207",
+    "@tiptap/extension-placeholder": "^2.0.0-beta.207",
+    "@tiptap/react": "^2.0.0-beta.205",
+    "@tiptap/starter-kit": "^2.0.0-beta.205",
+    "crypto-js": "^4.1.1"
+  },
   "peerDependencies": {
     "@strapi/strapi": "^4.1.7"
   },
